@@ -13,6 +13,11 @@ Learning outcomes & Other Skills Acquired along the course:
 >NumPy
 >Pandas
 
+Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 
 ## 18F Open Source Style Guide
 
