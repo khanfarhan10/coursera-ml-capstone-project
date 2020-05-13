@@ -14,17 +14,10 @@ Learning outcomes & Other Skills Acquired along the course:
 >Pandas
 
 ~~~
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+  * Bullet list
+      * Nested bullet
+            * Sub-nested bullet etc
+  * Bullet list item 2
 ~~~
 
 ## 18F Open Source Style Guide
