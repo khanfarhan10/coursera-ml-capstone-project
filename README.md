@@ -14,7 +14,7 @@ Learning outcomes & Other Skills Acquired along the course:
   * NumPy
   * Pandas
 ~~~
-
+You can find all these notebooks well documented at my([python-ml](https://github.com/khanfarhan10/python-ml))repository!
 
 
 ~~~
